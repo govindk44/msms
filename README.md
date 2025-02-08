@@ -18,3 +18,6 @@ npm start
 Admin login
 qwerty
 qwerty
+
+
+project report and ppt of this project 
